@@ -40,6 +40,18 @@ Trata-se de uma API que cumpre todos os requisitos e regras de negócio descrito
 
 ```
 # Clonar o repositório
+$ git clone https://github.com/isaaclyra132/finapi-ignite.git
 
+# Entrar no repositório
+$ cd finapi-ignite
 
+# Instalar as dependências
+$ yarn install
+ou 
+$ npm install
+
+# Iniciar o projeto
+$ yarn dev
+ou 
+$ npm dev
 ```
